@@ -1,2 +1,2 @@
 This is a sample text.
-This is a new text for second commit.
+This is a new for second commit.
